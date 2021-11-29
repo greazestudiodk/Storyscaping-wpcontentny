@@ -1,0 +1,47 @@
+/*
+ Theme Name:   Astra Child 
+ Theme URI:    http://storyscaping.dbdesigns.com/astra-child-theme/
+ Description:  Astra Child Theme
+ Author:       Dillon Bune
+ Author URI:   http://storyscaping.dbdesigns.com/astra-child-theme/
+ Template:     astra
+ Version:      1.1.30
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astra-child-theme
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Outfit:wght@500&display=swap');
+
+
+
+
+body {
+  
+
+
+    
+  background-color: white;
+  
+  
+}
+
+    h1, h2, h3, div {
+      
+    font-family: 'Outfit', sans-serif;
+    color: #444444;
+
+}
+
+p {
+    
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+
